@@ -1,0 +1,25 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Hata</h1>
+<h2 class="text-danger">İşleminiz gerçekleştirilirken bir hata oluştu.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Geliştirme Modu</h3>
+<p>
+    Swapping to <strong>Development</strong> environment will display more detailed information about the error that occurred.
+</p>
+<p>
+    <strong>Dağıtılan uygulamalar için Geliştirme ortamı etkinleştirilmemelidir.</strong>
+    İstisnalardan son kullanıcılara hassas bilgilerin gösterilmesine neden olabilir.
+    Yerel hata ayıklama için etkinleştirin <strong>Geliştirici</strong>
+    ortam değişkenini <strong>Geliştirmeye</strong> ayarlayıp uygulamayı yeniden başlatarak ortamı değiştirin.
+</p>

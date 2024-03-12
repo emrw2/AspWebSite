@@ -1,0 +1,12 @@
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\bin\Debug\net8.0\Site.Models.deps.json
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\bin\Debug\net8.0\Site.Models.dll
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\bin\Debug\net8.0\Site.Models.pdb
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\obj\Debug\net8.0\Site.Models.csproj.AssemblyReference.cache
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\obj\Debug\net8.0\Site.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\obj\Debug\net8.0\Site.Models.AssemblyInfoInputs.cache
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\obj\Debug\net8.0\Site.Models.AssemblyInfo.cs
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\obj\Debug\net8.0\Site.Models.csproj.CoreCompileInputs.cache
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\obj\Debug\net8.0\Site.Models.dll
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\obj\Debug\net8.0\refint\Site.Models.dll
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\obj\Debug\net8.0\Site.Models.pdb
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Models\obj\Debug\net8.0\ref\Site.Models.dll

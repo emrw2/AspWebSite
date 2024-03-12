@@ -1,0 +1,12 @@
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\bin\Debug\net8.0\Site.Utility.deps.json
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\bin\Debug\net8.0\Site.Utility.dll
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\bin\Debug\net8.0\Site.Utility.pdb
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\obj\Debug\net8.0\Site.Utility.csproj.AssemblyReference.cache
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\obj\Debug\net8.0\Site.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\obj\Debug\net8.0\Site.Utility.AssemblyInfoInputs.cache
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\obj\Debug\net8.0\Site.Utility.AssemblyInfo.cs
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\obj\Debug\net8.0\Site.Utility.csproj.CoreCompileInputs.cache
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\obj\Debug\net8.0\Site.Utility.dll
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\obj\Debug\net8.0\refint\Site.Utility.dll
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\obj\Debug\net8.0\Site.Utility.pdb
+C:\Users\monst\OneDrive\Belgeler\Masaüstü\Gaming\Site\Site.Utility\obj\Debug\net8.0\ref\Site.Utility.dll
